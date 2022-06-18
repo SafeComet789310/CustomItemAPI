@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  CustomItemAPI:
+ 
     path: ""
     icon: logo.png
 ...
